@@ -1,2 +1,0 @@
-# css-pratice
-css pratice
